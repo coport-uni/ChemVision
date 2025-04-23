@@ -120,7 +120,9 @@ if __name__ == "__main__":
 ![[Pasted image 20250415174740.png]](https://github.com/coport-uni/ChemVision/blob/main/Pasted%20image%2020250415174740.png)
 ![[Pasted image 20250415175928.png]](https://github.com/coport-uni/ChemVision/blob/main/Pasted%20image%2020250415175928.png)
 # 총개발
-https://github.com/coport-uni/ChemVision/blob/main/KakaoTalk_20250415_234757828.mp4
+<video width="1920" height="1080" controls>
+  <source src="[video.mov](https://github.com/coport-uni/ChemVision/blob/main/KakaoTalk_20250415_234757828.mp4)" type="video/mp4">
+</video>
 ```python
 from adafruit_motorkit import MotorKit
 from picamera2 import Picamera2
