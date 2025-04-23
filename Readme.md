@@ -1,4 +1,4 @@
-개발환경 세팅
+# 개발환경 세팅
 ```bash
 # raspi I2C 활성화!
 sudo raspi-config
@@ -117,10 +117,10 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-![[Pasted image 20250415174740.png]]
-![[Pasted image 20250415175928.png]]
+![[Pasted image 20250415174740.png]](https://github.com/coport-uni/ChemVision/blob/main/Pasted%20image%2020250415174740.png)
+![[Pasted image 20250415175928.png]](https://github.com/coport-uni/ChemVision/blob/main/Pasted%20image%2020250415175928.png)
 # 총개발
-![[KakaoTalk_20250415_234757828.mp4]]
+![[KakaoTalk_20250415_234757828.mp4]](https://github.com/coport-uni/ChemVision/blob/main/KakaoTalk_20250415_234757828.mp4)
 ```python
 from adafruit_motorkit import MotorKit
 from picamera2 import Picamera2
